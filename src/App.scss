@@ -1,9 +1,11 @@
+@import './styles/shared.scss';
+
 .App {
   text-align: center;
 }
 
 .App-logo {
-  animation: App-logo-spin infinite 20s linear;
+  animation: none;
   height: 40vmin;
   pointer-events: none;
 }
